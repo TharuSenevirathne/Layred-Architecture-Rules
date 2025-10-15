@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Constructor Injection/Constructor Injection.iml" filepath="$PROJECT_DIR$/Constructor Injection/Constructor Injection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Day2.iml" filepath="$PROJECT_DIR$/.idea/Day2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Interface Through Injection/Interface Through Injection.iml" filepath="$PROJECT_DIR$/Interface Through Injection/Interface Through Injection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Propety Injection/Propety Injection.iml" filepath="$PROJECT_DIR$/Propety Injection/Propety Injection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Setter Method Through Injection/Setter Method Through Injection.iml" filepath="$PROJECT_DIR$/Setter Method Through Injection/Setter Method Through Injection.iml" />
+    </modules>
+  </component>
+</project>
