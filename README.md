@@ -2,15 +2,6 @@
 
 A comprehensive collection of architecture and design pattern implementations following clean code principles and best practices.
 
-## 📋 Table of Contents
-- [Project Structure](#-project-structure)
-- [Features](#-features)
-- [Getting Started](#-getting-started)
-- [Design Patterns Covered](#-design-patterns-covered)
-- [Best Practices](#-best-practices)
-- [Contributing](#-contributing)
-- [License](#-license)
-
 ## 🏗️ Project Structure
 ```
 Rules/
